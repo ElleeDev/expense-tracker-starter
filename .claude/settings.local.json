@@ -3,7 +3,10 @@
     "allow": [
       "Bash(npm install *)",
       "Bash(Start-Sleep -Seconds 3)",
-      "Bash(Get-Content \"C:\\\\Users\\\\LEED\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-LEED-Documents-GitHub-expense-tracker-starter\\\\14212dfb-64a3-4363-bb5e-5f174747f444\\\\tasks\\\\bobqo5w2u.output\" -ErrorAction SilentlyContinue)"
+      "Bash(Get-Content \"C:\\\\Users\\\\LEED\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-LEED-Documents-GitHub-expense-tracker-starter\\\\14212dfb-64a3-4363-bb5e-5f174747f444\\\\tasks\\\\bobqo5w2u.output\" -ErrorAction SilentlyContinue)",
+      "Bash(npm run *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
